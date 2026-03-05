@@ -1,7 +1,7 @@
 ## Hi there 👋
--  I'm interested in AI development, cybersecurity, and software development.
--  I’m currently working on builing a CyberPatriot team in my high school.
--  I’m currently learning cybersecurity & python libraries :)
+-  I'm interested in Computer Vision, AI development, cybersecurity, and software development.
+-  I’m currently working on my team's FRC robot code and CV projects!
+-  I’m currently learning about Computer Vision :)
 <!--
 **alr11118/alr11118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
