@@ -1,6 +1,6 @@
 ## Hi there 👋
 -  I'm interested in Computer Vision, AI development, cybersecurity, and software development.
--  I’m currently working on my team's FRC robot code and CV projects!
+-  I’m currently working on my team's FRC robot code and simple Computer Vision projects!
 -  I’m currently learning about Computer Vision :)
 <!--
 **alr11118/alr11118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
